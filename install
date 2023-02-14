@@ -1,0 +1,8 @@
+#!/bin/bash
+
+sudo apt install octave octave-*
+
+# Octave
+# pkg install "https://downloads.sourceforge.net/project/octave/Octave%20Forge%20Packages/Individual%20Package%20Releases/symbolic-3.0.1.tar.gz"
+
+
